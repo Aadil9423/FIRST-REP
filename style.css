@@ -1,0 +1,25 @@
+.contenar {
+  text-align: center;
+  margin-top: 23px;
+}
+table {
+  margin: auto;
+}
+input {
+  border: 5px solid rgb(187, 255, 0);
+  font-size: 34px;
+  border-radius: 10px;
+}
+button {
+  font-size: 23px;
+  background-color: rgb(235, 250, 215);
+  width: 102px;
+  height: 58px;
+  border-radius: 20px;
+}
+.cal-1 {
+  padding: 23px;
+  border-radius: 53px;
+  display: inline-block;
+  background-color: rgb(238, 255, 0);
+}
